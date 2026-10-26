@@ -5,7 +5,7 @@ A responsive shopping website UI built with **React**, where you can browse head
 **🔗 Live demo:** [d-shopmate.netlify.app](https://d-shopmate.netlify.app/)
 **📦 Repository:** [github.com/deepikayadav610/shopmate](https://github.com/deepikayadav610/shopmate)
 
-![Shopmate home page](./screenshots/home.png)
+![Shopmate home page](./public/images/home.png)
 
 > Built as the final project for the _React with AI_ course by Internshala Trainings.
 
