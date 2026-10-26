@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sony WH-CH510 Bluetooth Wireless",
+        "price": 149,
+        "rating": 4.5,
+        "tag": "Bestseller",
+        "image": "/images/p1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "boAt Rockerz 450",
+        "price": 49,
+        "rating": 4.2,
+        "tag": "Budget pick",
+        "image": "/images/p2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "JBL Tune 760NC",
+        "price": 179,
+        "rating": 4.6,
+        "tag": "Noise cancelling",
+        "image": "/images/p3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sennheiser HD 400",
+        "price": 99,
+        "rating": 4.7,
+        "tag": "Studio sound",
+        "image": "/images/p4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Apple AirPods Max",
+        "price": 399,
+        "rating": 4.8,
+        "tag": "Premium",
+        "image": "/images/p5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Beats Solo",
+        "price": 129,
+        "rating": 4.3,
+        "tag": "New",
+        "image": "/images/p6.jpg"
+    }
+]
